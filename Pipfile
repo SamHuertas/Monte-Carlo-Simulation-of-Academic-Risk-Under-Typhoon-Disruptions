@@ -13,6 +13,7 @@ pyproj = "*"
 matplotlib = "*"
 tqdm = "*"
 openpyxl = "*"
+scipy = "*"
 
 [dev-packages]
 

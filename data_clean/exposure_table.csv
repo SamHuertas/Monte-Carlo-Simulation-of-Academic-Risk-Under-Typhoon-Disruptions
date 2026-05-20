@@ -1,0 +1,998 @@
+storm_id,year,region,min_dist_km,peak_wind,tcws,scenario
+2000185N15117,2000,Region I (Ilocos Region),6.55,75.0,4,Moderate
+2000185N15117,2000,Region II (Cagayan Valley),37.56,75.0,4,Moderate
+2000185N15117,2000,Region III (Central Luzon),67.53,75.0,4,Moderate
+2000185N15117,2000,Cordillera Administrative Region (CAR),31.3,75.0,4,Moderate
+2000193N10131,2000,Region II (Cagayan Valley),126.76,22.0,1,Moderate
+2000193N10131,2000,Region III (Central Luzon),112.93,22.0,1,Moderate
+2000193N10131,2000,Region IV-A (Calabarzon),130.37,22.0,1,Moderate
+2000193N10131,2000,Region V (Bicol Region),133.92,22.0,1,Moderate
+2000202N12131,2000,Region II (Cagayan Valley),122.11,50.0,3,Moderate
+2000202N12131,2000,Region III (Central Luzon),183.62,50.0,3,Moderate
+2000230N08139,2000,Region II (Cagayan Valley),111.78,123.2,5,Moderate
+2000232N12116,2000,Mimaropa Region,148.61,40.0,2,Moderate
+2000248N18126,2000,Region I (Ilocos Region),97.54,46.64,2,Moderate
+2000248N18126,2000,Region II (Cagayan Valley),0.0,46.64,2,Moderate
+2000248N18126,2000,Region III (Central Luzon),60.07,46.64,2,Moderate
+2000248N18126,2000,Cordillera Administrative Region (CAR),39.04,46.64,2,Moderate
+2000299N08139,2000,Region I (Ilocos Region),43.01,79.2,4,Moderate
+2000299N08139,2000,Region II (Cagayan Valley),116.72,79.2,4,Moderate
+2000299N08139,2000,Region III (Central Luzon),0.0,79.2,4,Moderate
+2000299N08139,2000,Region IV-A (Calabarzon),0.0,79.2,4,Moderate
+2000299N08139,2000,Region V (Bicol Region),0.0,79.2,4,Moderate
+2000299N08139,2000,Region VIII (Eastern Visayas),50.97,79.2,4,Moderate
+2000299N08139,2000,National Capital Region (NCR),9.07,79.2,4,Moderate
+2000299N08139,2000,Cordillera Administrative Region (CAR),113.63,79.2,4,Moderate
+2000299N08139,2000,Mimaropa Region,38.34,79.2,4,Moderate
+2000305N06136,2000,Region I (Ilocos Region),94.27,74.8,4,Moderate
+2000305N06136,2000,Region II (Cagayan Valley),123.78,74.8,4,Moderate
+2000305N06136,2000,Region III (Central Luzon),0.0,74.8,4,Moderate
+2000305N06136,2000,Region IV-A (Calabarzon),0.0,74.8,4,Moderate
+2000305N06136,2000,Region V (Bicol Region),0.0,74.8,4,Moderate
+2000305N06136,2000,Region VIII (Eastern Visayas),74.0,74.8,4,Moderate
+2000305N06136,2000,National Capital Region (NCR),0.69,74.8,4,Moderate
+2000305N06136,2000,Cordillera Administrative Region (CAR),165.64,74.8,4,Moderate
+2000305N06136,2000,Mimaropa Region,92.64,74.8,4,Moderate
+2000332N08133,2000,Region IV-A (Calabarzon),140.04,48.4,3,Moderate
+2000332N08133,2000,Region V (Bicol Region),12.0,48.4,3,Moderate
+2000332N08133,2000,Region VI (Western Visayas),12.62,48.4,3,Moderate
+2000332N08133,2000,Region VII (Central Visayas),21.28,48.4,3,Moderate
+2000332N08133,2000,Region VIII (Eastern Visayas),0.0,48.4,3,Moderate
+2000332N08133,2000,Region XIII (Caraga),55.01,48.4,3,Moderate
+2000332N08133,2000,Mimaropa Region,37.83,48.4,3,Moderate
+2001170N11138,2001,Region I (Ilocos Region),172.97,86.24,4,Normal
+2001170N11138,2001,Region II (Cagayan Valley),32.13,86.24,4,Normal
+2001170N11138,2001,Cordillera Administrative Region (CAR),157.85,86.24,4,Normal
+2001181N08141,2001,Region I (Ilocos Region),62.4,70.4,4,Normal
+2001181N08141,2001,Region II (Cagayan Valley),0.0,70.4,4,Normal
+2001181N08141,2001,Cordillera Administrative Region (CAR),61.74,70.4,4,Normal
+2001189N13130,2001,Region II (Cagayan Valley),50.54,40.0,2,Normal
+2001204N19127,2001,Region I (Ilocos Region),153.86,74.8,4,Normal
+2001204N19127,2001,Region II (Cagayan Valley),36.82,74.8,4,Normal
+2001204N19127,2001,Cordillera Administrative Region (CAR),161.26,74.8,4,Normal
+2001206N14134,2001,Region II (Cagayan Valley),90.07,81.84,4,Normal
+2001264N21126,2001,Region I (Ilocos Region),125.9,81.84,4,Normal
+2001264N21126,2001,Region II (Cagayan Valley),0.0,81.84,4,Normal
+2001264N21126,2001,Cordillera Administrative Region (CAR),113.72,81.84,4,Normal
+2001309N10130,2001,Region IV-A (Calabarzon),149.84,101.2,5,Normal
+2001309N10130,2001,Region V (Bicol Region),62.02,101.2,5,Normal
+2001309N10130,2001,Region VI (Western Visayas),0.0,101.2,5,Normal
+2001309N10130,2001,Region VII (Central Visayas),0.0,101.2,5,Normal
+2001309N10130,2001,Region VIII (Eastern Visayas),0.0,101.2,5,Normal
+2001309N10130,2001,Region X (Northern Mindanao),143.85,101.2,5,Normal
+2001309N10130,2001,Region XIII (Caraga),5.06,101.2,5,Normal
+2001309N10130,2001,Mimaropa Region,3.97,101.2,5,Normal
+2001323N05107,2001,Mimaropa Region,9.42,30.8,1,Normal
+2001323N05107,2001,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),10.71,30.8,1,Normal
+2002155N20112,2002,Region II (Cagayan Valley),19.12,66.0,4,Normal
+2002199N08130,2002,Region I (Ilocos Region),0.0,30.8,1,Normal
+2002199N08130,2002,Region II (Cagayan Valley),45.64,30.8,1,Normal
+2002199N08130,2002,Region III (Central Luzon),0.0,30.8,1,Normal
+2002199N08130,2002,Region IV-A (Calabarzon),0.0,30.8,1,Normal
+2002199N08130,2002,Region V (Bicol Region),0.79,30.8,1,Normal
+2002199N08130,2002,Region VI (Western Visayas),96.27,30.8,1,Normal
+2002199N08130,2002,Region VII (Central Visayas),75.64,30.8,1,Normal
+2002199N08130,2002,Region VIII (Eastern Visayas),0.0,30.8,1,Normal
+2002199N08130,2002,Region X (Northern Mindanao),179.36,30.8,1,Normal
+2002199N08130,2002,Region XI (Davao Region),191.26,30.8,1,Normal
+2002199N08130,2002,National Capital Region (NCR),7.46,30.8,1,Normal
+2002199N08130,2002,Cordillera Administrative Region (CAR),34.26,30.8,1,Normal
+2002199N08130,2002,Region XIII (Caraga),36.76,30.8,1,Normal
+2002199N08130,2002,Mimaropa Region,8.23,30.8,1,Normal
+2002214N19120,2002,Region I (Ilocos Region),142.47,55.0,3,Normal
+2002214N19120,2002,Region II (Cagayan Valley),170.55,55.0,3,Normal
+2002214N19120,2002,Cordillera Administrative Region (CAR),176.73,55.0,3,Normal
+2002222N11131,2002,Region I (Ilocos Region),151.58,30.8,1,Normal
+2002222N11131,2002,Region II (Cagayan Valley),145.8,30.8,1,Normal
+2002222N11131,2002,Region III (Central Luzon),32.29,30.8,1,Normal
+2002222N11131,2002,Region IV-A (Calabarzon),0.0,30.8,1,Normal
+2002222N11131,2002,Region V (Bicol Region),6.0,30.8,1,Normal
+2002222N11131,2002,Region VIII (Eastern Visayas),128.84,30.8,1,Normal
+2002222N11131,2002,National Capital Region (NCR),9.07,30.8,1,Normal
+2002222N11131,2002,Cordillera Administrative Region (CAR),198.78,30.8,1,Normal
+2002222N11131,2002,Mimaropa Region,37.44,30.8,1,Normal
+2002252N20121,2002,Region I (Ilocos Region),116.2,45.0,2,Normal
+2002252N20121,2002,Region II (Cagayan Valley),35.48,45.0,2,Normal
+2002252N20121,2002,Cordillera Administrative Region (CAR),128.88,45.0,2,Normal
+2003150N17119,2003,Region II (Cagayan Valley),32.23,50.0,3,Moderate
+2003158N08156,2003,Region II (Cagayan Valley),95.94,80.0,4,Moderate
+2003158N08156,2003,Region V (Bicol Region),149.91,80.0,4,Moderate
+2003158N08156,2003,Region VIII (Eastern Visayas),93.09,80.0,4,Moderate
+2003158N08156,2003,Cordillera Administrative Region (CAR),184.55,80.0,4,Moderate
+2003196N05150,2003,Region I (Ilocos Region),0.0,114.4,5,Moderate
+2003196N05150,2003,Region II (Cagayan Valley),0.0,114.4,5,Moderate
+2003196N05150,2003,Region III (Central Luzon),23.62,114.4,5,Moderate
+2003196N05150,2003,Region IV-A (Calabarzon),183.62,114.4,5,Moderate
+2003196N05150,2003,Region V (Bicol Region),179.23,114.4,5,Moderate
+2003196N05150,2003,Cordillera Administrative Region (CAR),0.0,114.4,5,Moderate
+2003196N11137,2003,Region IV-A (Calabarzon),149.07,60.0,3,Moderate
+2003196N11137,2003,Region V (Bicol Region),3.44,60.0,3,Moderate
+2003196N11137,2003,Region VI (Western Visayas),1.21,60.0,3,Moderate
+2003196N11137,2003,Region VII (Central Visayas),11.39,60.0,3,Moderate
+2003196N11137,2003,Region VIII (Eastern Visayas),0.0,60.0,3,Moderate
+2003196N11137,2003,Region XIII (Caraga),58.79,60.0,3,Moderate
+2003196N11137,2003,Mimaropa Region,4.72,60.0,3,Moderate
+2003212N12130,2003,Region II (Cagayan Valley),16.31,57.2,3,Moderate
+2003226N07156,2003,Region I (Ilocos Region),0.0,79.2,4,Moderate
+2003226N07156,2003,Region II (Cagayan Valley),0.43,79.2,4,Moderate
+2003226N07156,2003,Region III (Central Luzon),110.67,79.2,4,Moderate
+2003226N07156,2003,Cordillera Administrative Region (CAR),0.0,79.2,4,Moderate
+2003240N20139,2003,Region II (Cagayan Valley),9.86,108.24,5,Moderate
+2003294N11112,2003,Region V (Bicol Region),133.45,22.0,1,Moderate
+2003294N11112,2003,Region VI (Western Visayas),0.0,22.0,1,Moderate
+2003294N11112,2003,Region VII (Central Visayas),125.15,22.0,1,Moderate
+2003294N11112,2003,Mimaropa Region,0.06,22.0,1,Moderate
+2003302N11133,2003,Region I (Ilocos Region),13.85,64.24,4,Moderate
+2003302N11133,2003,Region II (Cagayan Valley),0.0,64.24,4,Moderate
+2003302N11133,2003,Region III (Central Luzon),51.26,64.24,4,Moderate
+2003302N11133,2003,Region IV-A (Calabarzon),168.58,64.24,4,Moderate
+2003302N11133,2003,Region V (Bicol Region),147.33,64.24,4,Moderate
+2003302N11133,2003,Cordillera Administrative Region (CAR),0.0,64.24,4,Moderate
+2003316N11141,2003,Region IV-A (Calabarzon),151.05,66.0,4,Moderate
+2003316N11141,2003,Region V (Bicol Region),2.35,66.0,4,Moderate
+2003316N11141,2003,Region VI (Western Visayas),14.18,66.0,4,Moderate
+2003316N11141,2003,Region VII (Central Visayas),41.57,66.0,4,Moderate
+2003316N11141,2003,Region VIII (Eastern Visayas),0.0,66.0,4,Moderate
+2003316N11141,2003,Mimaropa Region,0.01,66.0,4,Moderate
+2004156N16117,2004,Region I (Ilocos Region),108.03,80.0,4,Severe
+2004156N16117,2004,Region II (Cagayan Valley),54.66,80.0,4,Severe
+2004156N16117,2004,Region III (Central Luzon),136.9,80.0,4,Severe
+2004156N16117,2004,Cordillera Administrative Region (CAR),136.15,80.0,4,Severe
+2004158N07142,2004,Region V (Bicol Region),83.88,61.6,3,Severe
+2004158N07142,2004,Region VI (Western Visayas),0.0,61.6,3,Severe
+2004158N07142,2004,Region VII (Central Visayas),0.0,61.6,3,Severe
+2004158N07142,2004,Region VIII (Eastern Visayas),0.0,61.6,3,Severe
+2004158N07142,2004,Region X (Northern Mindanao),148.42,61.6,3,Severe
+2004158N07142,2004,Region XI (Davao Region),186.75,61.6,3,Severe
+2004158N07142,2004,Region XIII (Caraga),15.18,61.6,3,Severe
+2004158N07142,2004,Mimaropa Region,1.37,61.6,3,Severe
+2004174N14146,2004,Region I (Ilocos Region),133.43,110.0,5,Severe
+2004174N14146,2004,Region II (Cagayan Valley),2.2,110.0,5,Severe
+2004174N14146,2004,Cordillera Administrative Region (CAR),118.55,110.0,5,Severe
+2004193N19136,2004,Region I (Ilocos Region),178.2,45.0,2,Severe
+2004193N19136,2004,Region II (Cagayan Valley),27.98,45.0,2,Severe
+2004193N19136,2004,Cordillera Administrative Region (CAR),196.84,45.0,2,Severe
+2004255N23120,2004,Region II (Cagayan Valley),190.97,40.0,2,Severe
+2004288N09164,2004,Region II (Cagayan Valley),144.44,96.8,4,Severe
+2004319N10134,2004,Region II (Cagayan Valley),183.26,101.2,5,Severe
+2004319N10134,2004,Region III (Central Luzon),175.2,101.2,5,Severe
+2004319N10134,2004,Region IV-A (Calabarzon),10.6,101.2,5,Severe
+2004319N10134,2004,Region V (Bicol Region),2.79,101.2,5,Severe
+2004319N10134,2004,Region VI (Western Visayas),67.79,101.2,5,Severe
+2004319N10134,2004,Region VIII (Eastern Visayas),93.05,101.2,5,Severe
+2004319N10134,2004,National Capital Region (NCR),172.05,101.2,5,Severe
+2004319N10134,2004,Mimaropa Region,2.94,101.2,5,Severe
+2004327N16125,2004,Region I (Ilocos Region),171.74,35.0,2,Severe
+2004327N16125,2004,Region II (Cagayan Valley),91.42,35.0,2,Severe
+2004327N16125,2004,Region III (Central Luzon),62.99,35.0,2,Severe
+2004327N16125,2004,Region IV-A (Calabarzon),90.68,35.0,2,Severe
+2004327N16125,2004,Region V (Bicol Region),139.65,35.0,2,Severe
+2004327N16125,2004,National Capital Region (NCR),178.72,35.0,2,Severe
+2004327N16125,2004,Cordillera Administrative Region (CAR),163.79,35.0,2,Severe
+2005222N14131,2005,Region I (Ilocos Region),41.87,55.44,3,Moderate
+2005222N14131,2005,Region II (Cagayan Valley),9.2,55.44,3,Moderate
+2005222N14131,2005,Region III (Central Luzon),185.23,55.44,3,Moderate
+2005222N14131,2005,Cordillera Administrative Region (CAR),36.71,55.44,3,Moderate
+2005257N15120,2005,Region I (Ilocos Region),123.43,45.0,2,Moderate
+2005257N15120,2005,Region III (Central Luzon),53.03,45.0,2,Moderate
+2005257N15120,2005,Region IV-A (Calabarzon),109.4,45.0,2,Moderate
+2005257N15120,2005,National Capital Region (NCR),140.7,45.0,2,Moderate
+2005257N15120,2005,Cordillera Administrative Region (CAR),195.72,45.0,2,Moderate
+2005257N15120,2005,Mimaropa Region,38.06,45.0,2,Moderate
+2005262N13127,2005,Region I (Ilocos Region),66.36,80.0,4,Moderate
+2005262N13127,2005,Region II (Cagayan Valley),3.76,80.0,4,Moderate
+2005262N13127,2005,Region III (Central Luzon),156.27,80.0,4,Moderate
+2005262N13127,2005,Region V (Bicol Region),177.01,80.0,4,Moderate
+2005262N13127,2005,Cordillera Administrative Region (CAR),59.53,80.0,4,Moderate
+2005301N13117,2005,Mimaropa Region,184.45,80.0,4,Moderate
+2005311N08140,2005,Region I (Ilocos Region),0.0,39.6,2,Moderate
+2005311N08140,2005,Region II (Cagayan Valley),0.0,39.6,2,Moderate
+2005311N08140,2005,Region III (Central Luzon),0.87,39.6,2,Moderate
+2005311N08140,2005,Region IV-A (Calabarzon),66.11,39.6,2,Moderate
+2005311N08140,2005,Region V (Bicol Region),88.29,39.6,2,Moderate
+2005311N08140,2005,National Capital Region (NCR),133.84,39.6,2,Moderate
+2005311N08140,2005,Cordillera Administrative Region (CAR),0.13,39.6,2,Moderate
+2005316N05134,2005,Region I (Ilocos Region),34.78,61.6,3,Moderate
+2005316N05134,2005,Region II (Cagayan Valley),0.0,61.6,3,Moderate
+2005316N05134,2005,Region III (Central Luzon),68.86,61.6,3,Moderate
+2005316N05134,2005,Region V (Bicol Region),157.37,61.6,3,Moderate
+2005316N05134,2005,Cordillera Administrative Region (CAR),3.65,61.6,3,Moderate
+2006174N08135,2006,Region III (Central Luzon),143.11,40.0,2,Moderate
+2006174N08135,2006,Region IV-A (Calabarzon),90.75,40.0,2,Moderate
+2006174N08135,2006,Region V (Bicol Region),0.0,40.0,2,Moderate
+2006174N08135,2006,Region VI (Western Visayas),27.7,40.0,2,Moderate
+2006174N08135,2006,Region VII (Central Visayas),42.79,40.0,2,Moderate
+2006174N08135,2006,Region VIII (Eastern Visayas),0.0,40.0,2,Moderate
+2006174N08135,2006,National Capital Region (NCR),169.95,40.0,2,Moderate
+2006174N08135,2006,Region XIII (Caraga),94.72,40.0,2,Moderate
+2006174N08135,2006,Mimaropa Region,0.0,40.0,2,Moderate
+2006198N08152,2006,Region II (Cagayan Valley),107.98,80.0,4,Moderate
+2006209N13130,2006,Region I (Ilocos Region),7.54,65.0,4,Moderate
+2006209N13130,2006,Region II (Cagayan Valley),0.0,65.0,4,Moderate
+2006209N13130,2006,Region III (Central Luzon),11.14,65.0,4,Moderate
+2006209N13130,2006,Region IV-A (Calabarzon),125.6,65.0,4,Moderate
+2006209N13130,2006,Region V (Bicol Region),85.06,65.0,4,Moderate
+2006209N13130,2006,Cordillera Administrative Region (CAR),0.0,65.0,4,Moderate
+2006268N12129,2006,Region I (Ilocos Region),78.16,108.24,5,Moderate
+2006268N12129,2006,Region II (Cagayan Valley),150.49,108.24,5,Moderate
+2006268N12129,2006,Region III (Central Luzon),0.0,108.24,5,Moderate
+2006268N12129,2006,Region IV-A (Calabarzon),0.0,108.24,5,Moderate
+2006268N12129,2006,Region V (Bicol Region),0.0,108.24,5,Moderate
+2006268N12129,2006,Region VI (Western Visayas),170.17,108.24,5,Moderate
+2006268N12129,2006,Region VII (Central Visayas),161.86,108.24,5,Moderate
+2006268N12129,2006,Region VIII (Eastern Visayas),4.16,108.24,5,Moderate
+2006268N12129,2006,National Capital Region (NCR),5.93,108.24,5,Moderate
+2006268N12129,2006,Cordillera Administrative Region (CAR),151.28,108.24,5,Moderate
+2006268N12129,2006,Mimaropa Region,30.08,108.24,5,Moderate
+2006298N12143,2006,Region I (Ilocos Region),1.45,123.2,5,Moderate
+2006298N12143,2006,Region II (Cagayan Valley),0.0,123.2,5,Moderate
+2006298N12143,2006,Region III (Central Luzon),4.42,123.2,5,Moderate
+2006298N12143,2006,Region IV-A (Calabarzon),153.57,123.2,5,Moderate
+2006298N12143,2006,Cordillera Administrative Region (CAR),0.0,123.2,5,Moderate
+2006311N16143,2006,Region I (Ilocos Region),0.0,110.0,5,Moderate
+2006311N16143,2006,Region II (Cagayan Valley),10.34,110.0,5,Moderate
+2006311N16143,2006,Region III (Central Luzon),0.0,110.0,5,Moderate
+2006311N16143,2006,Region IV-A (Calabarzon),91.81,110.0,5,Moderate
+2006311N16143,2006,Region V (Bicol Region),192.47,110.0,5,Moderate
+2006311N16143,2006,National Capital Region (NCR),134.47,110.0,5,Moderate
+2006311N16143,2006,Cordillera Administrative Region (CAR),28.31,110.0,5,Moderate
+2006329N06150,2006,Region III (Central Luzon),101.01,117.04,5,Moderate
+2006329N06150,2006,Region IV-A (Calabarzon),0.59,117.04,5,Moderate
+2006329N06150,2006,Region V (Bicol Region),0.0,117.04,5,Moderate
+2006329N06150,2006,Region VI (Western Visayas),145.09,117.04,5,Moderate
+2006329N06150,2006,Region VIII (Eastern Visayas),79.27,117.04,5,Moderate
+2006329N06150,2006,National Capital Region (NCR),96.31,117.04,5,Moderate
+2006329N06150,2006,Mimaropa Region,0.39,117.04,5,Moderate
+2007216N18138,2007,Region II (Cagayan Valley),98.53,65.0,4,Normal
+2007219N15130,2007,Region II (Cagayan Valley),161.51,35.0,2,Normal
+2007223N19136,2007,Region II (Cagayan Valley),123.83,123.2,5,Normal
+2007272N17125,2007,Region I (Ilocos Region),11.75,61.6,3,Normal
+2007272N17125,2007,Region II (Cagayan Valley),74.91,61.6,3,Normal
+2007272N17125,2007,Region III (Central Luzon),58.59,61.6,3,Normal
+2007272N17125,2007,Region IV-A (Calabarzon),192.1,61.6,3,Normal
+2007272N17125,2007,Cordillera Administrative Region (CAR),36.84,61.6,3,Normal
+2007306N18133,2007,Region I (Ilocos Region),5.9,70.0,4,Normal
+2007306N18133,2007,Region II (Cagayan Valley),0.0,70.0,4,Normal
+2007306N18133,2007,Region III (Central Luzon),44.75,70.0,4,Normal
+2007306N18133,2007,Cordillera Administrative Region (CAR),0.0,70.0,4,Normal
+2007323N09128,2007,Region IV-A (Calabarzon),29.94,70.4,4,Normal
+2007323N09128,2007,Region V (Bicol Region),14.88,70.4,4,Normal
+2007323N09128,2007,Region VI (Western Visayas),9.91,70.4,4,Normal
+2007323N09128,2007,Region VII (Central Visayas),0.0,70.4,4,Normal
+2007323N09128,2007,Region VIII (Eastern Visayas),0.0,70.4,4,Normal
+2007323N09128,2007,Region IX (Zamboanga Peninsula),159.74,70.4,4,Normal
+2007323N09128,2007,Region X (Northern Mindanao),115.71,70.4,4,Normal
+2007323N09128,2007,Region XI (Davao Region),162.1,70.4,4,Normal
+2007323N09128,2007,National Capital Region (NCR),192.23,70.4,4,Normal
+2007323N09128,2007,Region XIII (Caraga),0.0,70.4,4,Normal
+2007323N09128,2007,Mimaropa Region,0.0,70.4,4,Normal
+2007324N10140,2007,Region I (Ilocos Region),7.64,81.84,4,Normal
+2007324N10140,2007,Region II (Cagayan Valley),0.0,81.84,4,Normal
+2007324N10140,2007,Region III (Central Luzon),78.23,81.84,4,Normal
+2007324N10140,2007,Region V (Bicol Region),139.8,81.84,4,Normal
+2007324N10140,2007,Cordillera Administrative Region (CAR),0.0,81.84,4,Normal
+2008169N08135,2008,Region I (Ilocos Region),2.01,92.4,4,Moderate
+2008169N08135,2008,Region II (Cagayan Valley),85.03,92.4,4,Moderate
+2008169N08135,2008,Region III (Central Luzon),0.0,92.4,4,Moderate
+2008169N08135,2008,Region IV-A (Calabarzon),0.0,92.4,4,Moderate
+2008169N08135,2008,Region V (Bicol Region),4.56,92.4,4,Moderate
+2008169N08135,2008,Region VI (Western Visayas),15.48,92.4,4,Moderate
+2008169N08135,2008,Region VII (Central Visayas),29.43,92.4,4,Moderate
+2008169N08135,2008,Region VIII (Eastern Visayas),0.0,92.4,4,Moderate
+2008169N08135,2008,National Capital Region (NCR),0.0,92.4,4,Moderate
+2008169N08135,2008,Cordillera Administrative Region (CAR),72.72,92.4,4,Moderate
+2008169N08135,2008,Region XIII (Caraga),99.56,92.4,4,Moderate
+2008169N08135,2008,Mimaropa Region,0.58,92.4,4,Moderate
+2008193N20126,2008,Region II (Cagayan Valley),124.81,65.0,4,Moderate
+2008217N19120,2008,Region I (Ilocos Region),119.94,50.0,3,Moderate
+2008217N19120,2008,Region II (Cagayan Valley),150.5,50.0,3,Moderate
+2008217N19120,2008,Cordillera Administrative Region (CAR),155.72,50.0,3,Moderate
+2008229N13147,2008,Region I (Ilocos Region),37.93,86.24,4,Moderate
+2008229N13147,2008,Region II (Cagayan Valley),7.81,86.24,4,Moderate
+2008229N13147,2008,Cordillera Administrative Region (CAR),39.55,86.24,4,Moderate
+2008238N13130,2008,Region I (Ilocos Region),164.79,30.8,1,Moderate
+2008238N13130,2008,Region II (Cagayan Valley),23.85,30.8,1,Moderate
+2008238N13130,2008,Region III (Central Luzon),181.78,30.8,1,Moderate
+2008238N13130,2008,Cordillera Administrative Region (CAR),118.74,30.8,1,Moderate
+2008262N16142,2008,Region I (Ilocos Region),94.12,108.24,5,Moderate
+2008262N16142,2008,Region II (Cagayan Valley),2.02,108.24,5,Moderate
+2008262N16142,2008,Cordillera Administrative Region (CAR),101.46,108.24,5,Moderate
+2008268N12140,2008,Region II (Cagayan Valley),192.17,123.2,5,Moderate
+2008272N08139,2008,Region I (Ilocos Region),132.92,35.2,2,Moderate
+2008272N08139,2008,Region II (Cagayan Valley),161.19,35.2,2,Moderate
+2008272N08139,2008,Region III (Central Luzon),0.86,35.2,2,Moderate
+2008272N08139,2008,Region IV-A (Calabarzon),0.0,35.2,2,Moderate
+2008272N08139,2008,Region V (Bicol Region),0.0,35.2,2,Moderate
+2008272N08139,2008,Region VI (Western Visayas),190.02,35.2,2,Moderate
+2008272N08139,2008,Region VII (Central Visayas),153.58,35.2,2,Moderate
+2008272N08139,2008,Region VIII (Eastern Visayas),0.0,35.2,2,Moderate
+2008272N08139,2008,National Capital Region (NCR),17.67,35.2,2,Moderate
+2008272N08139,2008,Cordillera Administrative Region (CAR),197.48,35.2,2,Moderate
+2008272N08139,2008,Region XIII (Caraga),115.85,35.2,2,Moderate
+2008272N08139,2008,Mimaropa Region,57.4,35.2,2,Moderate
+2008311N08128,2008,Region IV-A (Calabarzon),160.12,50.0,3,Moderate
+2008311N08128,2008,Region V (Bicol Region),110.62,50.0,3,Moderate
+2008311N08128,2008,Region VI (Western Visayas),0.0,50.0,3,Moderate
+2008311N08128,2008,Region VII (Central Visayas),0.0,50.0,3,Moderate
+2008311N08128,2008,Region VIII (Eastern Visayas),36.64,50.0,3,Moderate
+2008311N08128,2008,Region IX (Zamboanga Peninsula),151.48,50.0,3,Moderate
+2008311N08128,2008,Region X (Northern Mindanao),59.85,50.0,3,Moderate
+2008311N08128,2008,Region XI (Davao Region),144.23,50.0,3,Moderate
+2008311N08128,2008,Region XIII (Caraga),0.61,50.0,3,Moderate
+2008311N08128,2008,Mimaropa Region,14.21,50.0,3,Moderate
+2008311N08128,2008,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),181.47,50.0,3,Moderate
+2008320N08122,2008,Region VI (Western Visayas),156.82,40.0,2,Moderate
+2008320N08122,2008,Region VII (Central Visayas),150.04,40.0,2,Moderate
+2008320N08122,2008,Region IX (Zamboanga Peninsula),44.65,40.0,2,Moderate
+2008320N08122,2008,Region X (Northern Mindanao),182.52,40.0,2,Moderate
+2008320N08122,2008,Mimaropa Region,0.0,40.0,2,Moderate
+2008320N08122,2008,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),147.07,40.0,2,Moderate
+2009164N10131,2009,Region I (Ilocos Region),0.0,64.24,4,Severe
+2009164N10131,2009,Region II (Cagayan Valley),0.0,64.24,4,Severe
+2009164N10131,2009,Region III (Central Luzon),0.64,64.24,4,Severe
+2009164N10131,2009,Region IV-A (Calabarzon),91.6,64.24,4,Severe
+2009164N10131,2009,Region V (Bicol Region),76.34,64.24,4,Severe
+2009164N10131,2009,Region VIII (Eastern Visayas),171.43,64.24,4,Severe
+2009164N10131,2009,National Capital Region (NCR),193.85,64.24,4,Severe
+2009164N10131,2009,Cordillera Administrative Region (CAR),0.0,64.24,4,Severe
+2009173N10132,2009,Region I (Ilocos Region),129.13,40.0,2,Severe
+2009173N10132,2009,Region III (Central Luzon),73.23,40.0,2,Severe
+2009173N10132,2009,Region IV-A (Calabarzon),16.84,40.0,2,Severe
+2009173N10132,2009,Region V (Bicol Region),0.0,40.0,2,Severe
+2009173N10132,2009,Region VI (Western Visayas),86.76,40.0,2,Severe
+2009173N10132,2009,Region VII (Central Visayas),67.54,40.0,2,Severe
+2009173N10132,2009,Region VIII (Eastern Visayas),0.0,40.0,2,Severe
+2009173N10132,2009,National Capital Region (NCR),97.04,40.0,2,Severe
+2009173N10132,2009,Region XIII (Caraga),130.76,40.0,2,Severe
+2009173N10132,2009,Mimaropa Region,0.0,40.0,2,Severe
+2009189N17129,2009,Region I (Ilocos Region),28.13,35.0,2,Severe
+2009189N17129,2009,Region II (Cagayan Valley),3.47,35.0,2,Severe
+2009189N17129,2009,Cordillera Administrative Region (CAR),22.53,35.0,2,Severe
+2009192N16130,2009,Region II (Cagayan Valley),118.03,26.4,1,Severe
+2009196N14129,2009,Region I (Ilocos Region),199.98,65.0,4,Severe
+2009196N14129,2009,Region II (Cagayan Valley),22.78,65.0,4,Severe
+2009196N14129,2009,Cordillera Administrative Region (CAR),182.79,65.0,4,Severe
+2009213N16130,2009,Region I (Ilocos Region),0.0,40.0,2,Severe
+2009213N16130,2009,Region II (Cagayan Valley),84.45,40.0,2,Severe
+2009213N16130,2009,Region III (Central Luzon),133.68,40.0,2,Severe
+2009213N16130,2009,Cordillera Administrative Region (CAR),0.71,40.0,2,Severe
+2009251N16118,2009,Region I (Ilocos Region),93.5,40.0,2,Severe
+2009251N16118,2009,Region II (Cagayan Valley),196.91,40.0,2,Severe
+2009251N16118,2009,Region III (Central Luzon),115.05,40.0,2,Severe
+2009251N16118,2009,Cordillera Administrative Region (CAR),158.04,40.0,2,Severe
+2009254N14130,2009,Region I (Ilocos Region),87.08,65.0,4,Severe
+2009254N14130,2009,Region II (Cagayan Valley),21.79,65.0,4,Severe
+2009254N14130,2009,Cordillera Administrative Region (CAR),94.85,65.0,4,Severe
+2009268N14128,2009,Region I (Ilocos Region),33.81,79.2,4,Severe
+2009268N14128,2009,Region II (Cagayan Valley),40.26,79.2,4,Severe
+2009268N14128,2009,Region III (Central Luzon),0.0,79.2,4,Severe
+2009268N14128,2009,Region IV-A (Calabarzon),27.25,79.2,4,Severe
+2009268N14128,2009,Region V (Bicol Region),91.15,79.2,4,Severe
+2009268N14128,2009,National Capital Region (NCR),69.22,79.2,4,Severe
+2009268N14128,2009,Cordillera Administrative Region (CAR),87.46,79.2,4,Severe
+2009268N14128,2009,Mimaropa Region,170.73,79.2,4,Severe
+2009270N10148,2009,Region I (Ilocos Region),0.0,114.4,5,Severe
+2009270N10148,2009,Region II (Cagayan Valley),0.0,114.4,5,Severe
+2009270N10148,2009,Region III (Central Luzon),87.73,114.4,5,Severe
+2009270N10148,2009,Region V (Bicol Region),176.47,114.4,5,Severe
+2009270N10148,2009,Cordillera Administrative Region (CAR),0.0,114.4,5,Severe
+2009287N10154,2009,Region II (Cagayan Valley),142.08,121.44,5,Severe
+2009299N12153,2009,Region I (Ilocos Region),156.96,80.0,4,Severe
+2009299N12153,2009,Region II (Cagayan Valley),170.2,80.0,4,Severe
+2009299N12153,2009,Region III (Central Luzon),29.81,80.0,4,Severe
+2009299N12153,2009,Region IV-A (Calabarzon),0.0,80.0,4,Severe
+2009299N12153,2009,Region V (Bicol Region),16.85,80.0,4,Severe
+2009299N12153,2009,National Capital Region (NCR),16.87,80.0,4,Severe
+2009299N12153,2009,Mimaropa Region,37.44,80.0,4,Severe
+2009305N14134,2009,Region II (Cagayan Valley),170.49,22.0,1,Severe
+2009305N14134,2009,Region III (Central Luzon),170.56,22.0,1,Severe
+2009305N14134,2009,Region IV-A (Calabarzon),132.5,22.0,1,Severe
+2009305N14134,2009,Region V (Bicol Region),96.1,22.0,1,Severe
+2009324N06129,2009,Region VIII (Eastern Visayas),139.26,26.4,1,Severe
+2009324N06129,2009,Region X (Northern Mindanao),132.22,26.4,1,Severe
+2009324N06129,2009,Region XI (Davao Region),143.65,26.4,1,Severe
+2009324N06129,2009,Region XIII (Caraga),21.18,26.4,1,Severe
+2010191N12138,2010,Region I (Ilocos Region),108.24,70.0,4,Normal
+2010191N12138,2010,Region II (Cagayan Valley),151.18,70.0,4,Normal
+2010191N12138,2010,Region III (Central Luzon),8.3,70.0,4,Normal
+2010191N12138,2010,Region IV-A (Calabarzon),2.97,70.0,4,Normal
+2010191N12138,2010,Region V (Bicol Region),3.03,70.0,4,Normal
+2010191N12138,2010,Region VIII (Eastern Visayas),178.19,70.0,4,Normal
+2010191N12138,2010,National Capital Region (NCR),5.02,70.0,4,Normal
+2010191N12138,2010,Cordillera Administrative Region (CAR),180.8,70.0,4,Normal
+2010191N12138,2010,Mimaropa Region,70.49,70.0,4,Normal
+2010198N15123,2010,Region I (Ilocos Region),59.6,70.0,4,Normal
+2010198N15123,2010,Region II (Cagayan Valley),51.1,70.0,4,Normal
+2010198N15123,2010,Region III (Central Luzon),0.0,70.0,4,Normal
+2010198N15123,2010,Region IV-A (Calabarzon),20.33,70.0,4,Normal
+2010198N15123,2010,Region V (Bicol Region),94.32,70.0,4,Normal
+2010198N15123,2010,National Capital Region (NCR),56.84,70.0,4,Normal
+2010198N15123,2010,Cordillera Administrative Region (CAR),108.73,70.0,4,Normal
+2010198N15123,2010,Mimaropa Region,130.35,70.0,4,Normal
+2010233N17119,2010,Region I (Ilocos Region),152.57,55.44,3,Normal
+2010233N17119,2010,Region III (Central Luzon),190.75,55.44,3,Normal
+2010239N15118,2010,Region I (Ilocos Region),191.77,51.04,3,Normal
+2010239N15118,2010,Region III (Central Luzon),192.78,51.04,3,Normal
+2010239N15118,2010,Mimaropa Region,197.39,51.04,3,Normal
+2010249N24125,2010,Region II (Cagayan Valley),64.18,57.2,3,Normal
+2010285N13145,2010,Region I (Ilocos Region),1.45,139.04,5,Normal
+2010285N13145,2010,Region II (Cagayan Valley),0.0,139.04,5,Normal
+2010285N13145,2010,Region III (Central Luzon),67.53,139.04,5,Normal
+2010285N13145,2010,Region IV-A (Calabarzon),187.7,139.04,5,Normal
+2010285N13145,2010,Cordillera Administrative Region (CAR),0.0,139.04,5,Normal
+2011159N13122,2011,Region I (Ilocos Region),83.97,40.0,2,Normal
+2011159N13122,2011,Region II (Cagayan Valley),188.37,40.0,2,Normal
+2011159N13122,2011,Region III (Central Luzon),21.24,40.0,2,Normal
+2011159N13122,2011,Region IV-A (Calabarzon),0.0,40.0,2,Normal
+2011159N13122,2011,Region V (Bicol Region),113.93,40.0,2,Normal
+2011159N13122,2011,Region VI (Western Visayas),131.95,40.0,2,Normal
+2011159N13122,2011,National Capital Region (NCR),51.29,40.0,2,Normal
+2011159N13122,2011,Cordillera Administrative Region (CAR),171.55,40.0,2,Normal
+2011159N13122,2011,Mimaropa Region,18.91,40.0,2,Normal
+2011167N08129,2011,Region I (Ilocos Region),101.06,40.0,2,Normal
+2011167N08129,2011,Region II (Cagayan Valley),21.72,40.0,2,Normal
+2011167N08129,2011,Region III (Central Luzon),197.85,40.0,2,Normal
+2011167N08129,2011,Region V (Bicol Region),138.25,40.0,2,Normal
+2011167N08129,2011,Region VIII (Eastern Visayas),168.33,40.0,2,Normal
+2011167N08129,2011,Cordillera Administrative Region (CAR),105.35,40.0,2,Normal
+2011205N12130,2011,Region I (Ilocos Region),12.77,52.8,3,Normal
+2011205N12130,2011,Region II (Cagayan Valley),0.0,52.8,3,Normal
+2011205N12130,2011,Region III (Central Luzon),2.19,52.8,3,Normal
+2011205N12130,2011,Region IV-A (Calabarzon),42.99,52.8,3,Normal
+2011205N12130,2011,Region V (Bicol Region),2.51,52.8,3,Normal
+2011205N12130,2011,Region VIII (Eastern Visayas),141.26,52.8,3,Normal
+2011205N12130,2011,National Capital Region (NCR),157.79,52.8,3,Normal
+2011205N12130,2011,Cordillera Administrative Region (CAR),0.0,52.8,3,Normal
+2011205N12130,2011,Mimaropa Region,146.39,52.8,3,Normal
+2011233N12129,2011,Region I (Ilocos Region),98.86,123.2,5,Normal
+2011233N12129,2011,Region II (Cagayan Valley),0.0,123.2,5,Normal
+2011233N12129,2011,Region III (Central Luzon),165.56,123.2,5,Normal
+2011233N12129,2011,Cordillera Administrative Region (CAR),70.08,123.2,5,Normal
+2011266N13139,2011,Region I (Ilocos Region),8.55,90.64,4,Normal
+2011266N13139,2011,Region II (Cagayan Valley),0.0,90.64,4,Normal
+2011266N13139,2011,Region III (Central Luzon),6.73,90.64,4,Normal
+2011266N13139,2011,Region IV-A (Calabarzon),132.38,90.64,4,Normal
+2011266N13139,2011,Region V (Bicol Region),176.41,90.64,4,Normal
+2011266N13139,2011,National Capital Region (NCR),186.34,90.64,4,Normal
+2011266N13139,2011,Cordillera Administrative Region (CAR),1.75,90.64,4,Normal
+2011270N18139,2011,Region I (Ilocos Region),11.11,108.24,5,Normal
+2011270N18139,2011,Region II (Cagayan Valley),0.0,108.24,5,Normal
+2011270N18139,2011,Region III (Central Luzon),27.07,108.24,5,Normal
+2011270N18139,2011,Region IV-A (Calabarzon),156.77,108.24,5,Normal
+2011270N18139,2011,Cordillera Administrative Region (CAR),3.32,108.24,5,Normal
+2011282N08136,2011,Region IV-A (Calabarzon),159.67,35.0,2,Normal
+2011282N08136,2011,Region V (Bicol Region),40.35,35.0,2,Normal
+2011282N08136,2011,Region VI (Western Visayas),0.0,35.0,2,Normal
+2011282N08136,2011,Region VII (Central Visayas),17.01,35.0,2,Normal
+2011282N08136,2011,Region VIII (Eastern Visayas),0.0,35.0,2,Normal
+2011282N08136,2011,Region X (Northern Mindanao),134.08,35.0,2,Normal
+2011282N08136,2011,Region XI (Davao Region),159.71,35.0,2,Normal
+2011282N08136,2011,Region XIII (Caraga),0.0,35.0,2,Normal
+2011282N08136,2011,Mimaropa Region,7.6,35.0,2,Normal
+2012152N12130,2012,Region II (Cagayan Valley),179.33,92.4,4,Severe
+2012152N12130,2012,Region V (Bicol Region),161.79,92.4,4,Severe
+2012177N11135,2012,Region I (Ilocos Region),119.12,40.0,2,Severe
+2012177N11135,2012,Region II (Cagayan Valley),1.08,40.0,2,Severe
+2012177N11135,2012,Cordillera Administrative Region (CAR),128.04,40.0,2,Severe
+2012201N15129,2012,Region I (Ilocos Region),56.43,101.2,5,Severe
+2012201N15129,2012,Region II (Cagayan Valley),0.0,101.2,5,Severe
+2012201N15129,2012,Region III (Central Luzon),183.62,101.2,5,Severe
+2012201N15129,2012,Cordillera Administrative Region (CAR),61.67,101.2,5,Severe
+2012225N16133,2012,Region I (Ilocos Region),7.03,65.0,4,Severe
+2012225N16133,2012,Region II (Cagayan Valley),0.0,65.0,4,Severe
+2012225N16133,2012,Region III (Central Luzon),129.16,65.0,4,Severe
+2012225N16133,2012,Cordillera Administrative Region (CAR),10.3,65.0,4,Severe
+2012230N21126,2012,Region II (Cagayan Valley),131.84,103.84,5,Severe
+2012273N13112,2012,Region I (Ilocos Region),180.56,50.0,3,Severe
+2012273N13112,2012,Region III (Central Luzon),174.68,50.0,3,Severe
+2012296N06135,2012,Region III (Central Luzon),120.54,92.4,4,Severe
+2012296N06135,2012,Region IV-A (Calabarzon),71.45,92.4,4,Severe
+2012296N06135,2012,Region V (Bicol Region),23.95,92.4,4,Severe
+2012296N06135,2012,Region VI (Western Visayas),8.7,92.4,4,Severe
+2012296N06135,2012,Region VII (Central Visayas),12.26,92.4,4,Severe
+2012296N06135,2012,Region VIII (Eastern Visayas),0.0,92.4,4,Severe
+2012296N06135,2012,Region X (Northern Mindanao),133.77,92.4,4,Severe
+2012296N06135,2012,Region XI (Davao Region),152.29,92.4,4,Severe
+2012296N06135,2012,National Capital Region (NCR),145.63,92.4,4,Severe
+2012296N06135,2012,Region XIII (Caraga),4.03,92.4,4,Severe
+2012296N06135,2012,Mimaropa Region,0.0,92.4,4,Severe
+2012317N07118,2012,Mimaropa Region,68.19,22.0,1,Severe
+2012317N07118,2012,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),118.05,22.0,1,Severe
+2013167N12128,2013,Region VIII (Eastern Visayas),179.11,40.0,2,Severe
+2013178N09133,2013,Region I (Ilocos Region),121.59,57.2,3,Severe
+2013178N09133,2013,Region II (Cagayan Valley),191.59,57.2,3,Severe
+2013178N09133,2013,Region III (Central Luzon),22.96,57.2,3,Severe
+2013178N09133,2013,Region IV-A (Calabarzon),0.0,57.2,3,Severe
+2013178N09133,2013,Region V (Bicol Region),0.0,57.2,3,Severe
+2013178N09133,2013,Region VI (Western Visayas),123.94,57.2,3,Severe
+2013178N09133,2013,Region VII (Central Visayas),91.52,57.2,3,Severe
+2013178N09133,2013,Region VIII (Eastern Visayas),0.0,57.2,3,Severe
+2013178N09133,2013,National Capital Region (NCR),48.87,57.2,3,Severe
+2013178N09133,2013,Cordillera Administrative Region (CAR),196.06,57.2,3,Severe
+2013178N09133,2013,Region XIII (Caraga),117.17,57.2,3,Severe
+2013178N09133,2013,Mimaropa Region,17.85,57.2,3,Severe
+2013196N14128,2013,Region I (Ilocos Region),72.57,40.0,2,Severe
+2013196N14128,2013,Region II (Cagayan Valley),11.96,40.0,2,Severe
+2013196N14128,2013,Region III (Central Luzon),113.5,40.0,2,Severe
+2013196N14128,2013,Region V (Bicol Region),114.77,40.0,2,Severe
+2013196N14128,2013,Region VIII (Eastern Visayas),195.44,40.0,2,Severe
+2013196N14128,2013,Cordillera Administrative Region (CAR),58.95,40.0,2,Severe
+2013217N11118,2013,Mimaropa Region,109.97,40.0,2,Severe
+2013220N12137,2013,Region I (Ilocos Region),25.34,110.0,5,Severe
+2013220N12137,2013,Region II (Cagayan Valley),0.0,110.0,5,Severe
+2013220N12137,2013,Region III (Central Luzon),10.94,110.0,5,Severe
+2013220N12137,2013,Region IV-A (Calabarzon),118.29,110.0,5,Severe
+2013220N12137,2013,Region V (Bicol Region),125.62,110.0,5,Severe
+2013220N12137,2013,National Capital Region (NCR),183.76,110.0,5,Severe
+2013220N12137,2013,Cordillera Administrative Region (CAR),0.0,110.0,5,Severe
+2013237N11129,2013,Region II (Cagayan Valley),83.51,55.0,3,Severe
+2013259N17132,2013,Region II (Cagayan Valley),9.76,118.8,5,Severe
+2013282N14132,2013,Region I (Ilocos Region),24.84,86.24,4,Severe
+2013282N14132,2013,Region II (Cagayan Valley),36.4,86.24,4,Severe
+2013282N14132,2013,Region III (Central Luzon),0.0,86.24,4,Severe
+2013282N14132,2013,Region IV-A (Calabarzon),32.57,86.24,4,Severe
+2013282N14132,2013,Region V (Bicol Region),99.5,86.24,4,Severe
+2013282N14132,2013,National Capital Region (NCR),89.08,86.24,4,Severe
+2013282N14132,2013,Cordillera Administrative Region (CAR),76.55,86.24,4,Severe
+2013282N14132,2013,Mimaropa Region,157.03,86.24,4,Severe
+2013301N13142,2013,Region I (Ilocos Region),16.08,90.64,4,Severe
+2013301N13142,2013,Region II (Cagayan Valley),0.0,90.64,4,Severe
+2013301N13142,2013,Region III (Central Luzon),179.36,90.64,4,Severe
+2013301N13142,2013,Cordillera Administrative Region (CAR),0.0,90.64,4,Severe
+2013305N07141,2013,Region V (Bicol Region),195.27,30.8,1,Severe
+2013305N07141,2013,Region VI (Western Visayas),21.46,30.8,1,Severe
+2013305N07141,2013,Region VII (Central Visayas),0.0,30.8,1,Severe
+2013305N07141,2013,Region VIII (Eastern Visayas),13.21,30.8,1,Severe
+2013305N07141,2013,Region IX (Zamboanga Peninsula),117.38,30.8,1,Severe
+2013305N07141,2013,Region X (Northern Mindanao),67.7,30.8,1,Severe
+2013305N07141,2013,Region XI (Davao Region),154.7,30.8,1,Severe
+2013305N07141,2013,Region XIII (Caraga),0.29,30.8,1,Severe
+2013305N07141,2013,Mimaropa Region,1.45,30.8,1,Severe
+2013305N07141,2013,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),184.12,30.8,1,Severe
+2013306N07162,2013,Region IV-A (Calabarzon),190.63,149.6,5,Severe
+2013306N07162,2013,Region V (Bicol Region),55.82,149.6,5,Severe
+2013306N07162,2013,Region VI (Western Visayas),0.0,149.6,5,Severe
+2013306N07162,2013,Region VII (Central Visayas),0.23,149.6,5,Severe
+2013306N07162,2013,Region VIII (Eastern Visayas),0.0,149.6,5,Severe
+2013306N07162,2013,Region X (Northern Mindanao),192.95,149.6,5,Severe
+2013306N07162,2013,Region XIII (Caraga),45.81,149.6,5,Severe
+2013306N07162,2013,Mimaropa Region,16.11,149.6,5,Severe
+2013316N06130,2013,Region VI (Western Visayas),37.35,35.0,2,Severe
+2013316N06130,2013,Region VII (Central Visayas),0.0,35.0,2,Severe
+2013316N06130,2013,Region VIII (Eastern Visayas),135.56,35.0,2,Severe
+2013316N06130,2013,Region IX (Zamboanga Peninsula),69.11,35.0,2,Severe
+2013316N06130,2013,Region X (Northern Mindanao),0.0,35.0,2,Severe
+2013316N06130,2013,Region XI (Davao Region),0.0,35.0,2,Severe
+2013316N06130,2013,Region XII (Soccsksargen),83.8,35.0,2,Severe
+2013316N06130,2013,Region XIII (Caraga),0.0,35.0,2,Severe
+2013316N06130,2013,Mimaropa Region,0.0,35.0,2,Severe
+2013316N06130,2013,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),68.94,35.0,2,Severe
+2014190N08154,2014,Region I (Ilocos Region),112.61,118.8,5,Moderate
+2014190N08154,2014,Region II (Cagayan Valley),176.98,118.8,5,Moderate
+2014190N08154,2014,Region III (Central Luzon),14.17,118.8,5,Moderate
+2014190N08154,2014,Region IV-A (Calabarzon),0.0,118.8,5,Moderate
+2014190N08154,2014,Region V (Bicol Region),0.0,118.8,5,Moderate
+2014190N08154,2014,Region VI (Western Visayas),190.02,118.8,5,Moderate
+2014190N08154,2014,Region VII (Central Visayas),176.08,118.8,5,Moderate
+2014190N08154,2014,Region VIII (Eastern Visayas),13.24,118.8,5,Moderate
+2014190N08154,2014,National Capital Region (NCR),40.12,118.8,5,Moderate
+2014190N08154,2014,Cordillera Administrative Region (CAR),185.92,118.8,5,Moderate
+2014190N08154,2014,Mimaropa Region,48.93,118.8,5,Moderate
+2014197N10137,2014,Region II (Cagayan Valley),116.1,74.8,4,Moderate
+2014249N14118,2014,Mimaropa Region,175.28,26.4,1,Moderate
+2014254N10142,2014,Region I (Ilocos Region),0.0,75.0,4,Moderate
+2014254N10142,2014,Region II (Cagayan Valley),0.0,75.0,4,Moderate
+2014254N10142,2014,Region III (Central Luzon),115.6,75.0,4,Moderate
+2014254N10142,2014,Cordillera Administrative Region (CAR),11.84,75.0,4,Moderate
+2014260N13135,2014,Region I (Ilocos Region),7.79,45.0,2,Moderate
+2014260N13135,2014,Region II (Cagayan Valley),3.05,45.0,2,Moderate
+2014260N13135,2014,Region III (Central Luzon),144.86,45.0,2,Moderate
+2014260N13135,2014,Cordillera Administrative Region (CAR),13.74,45.0,2,Moderate
+2014329N08131,2014,Region VI (Western Visayas),0.0,48.4,3,Moderate
+2014329N08131,2014,Region VII (Central Visayas),0.0,48.4,3,Moderate
+2014329N08131,2014,Region VIII (Eastern Visayas),52.98,48.4,3,Moderate
+2014329N08131,2014,Region IX (Zamboanga Peninsula),103.95,48.4,3,Moderate
+2014329N08131,2014,Region X (Northern Mindanao),28.47,48.4,3,Moderate
+2014329N08131,2014,Region XI (Davao Region),106.94,48.4,3,Moderate
+2014329N08131,2014,Region XII (Soccsksargen),198.13,48.4,3,Moderate
+2014329N08131,2014,Region XIII (Caraga),0.0,48.4,3,Moderate
+2014329N08131,2014,Mimaropa Region,8.68,48.4,3,Moderate
+2014329N08131,2014,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),151.92,48.4,3,Moderate
+2015183N13130,2015,Region I (Ilocos Region),3.45,64.24,4,Normal
+2015183N13130,2015,Region II (Cagayan Valley),0.0,64.24,4,Normal
+2015183N13130,2015,Region III (Central Luzon),82.83,64.24,4,Normal
+2015183N13130,2015,Region V (Bicol Region),179.23,64.24,4,Normal
+2015183N13130,2015,Cordillera Administrative Region (CAR),0.0,64.24,4,Normal
+2015203N16126,2015,Region II (Cagayan Valley),72.3,30.8,1,Normal
+2015203N16126,2015,Region III (Central Luzon),117.58,30.8,1,Normal
+2015203N16126,2015,Cordillera Administrative Region (CAR),164.9,30.8,1,Normal
+2015226N12151,2015,Region I (Ilocos Region),170.18,103.84,5,Normal
+2015226N12151,2015,Region II (Cagayan Valley),42.62,103.84,5,Normal
+2015226N12151,2015,Cordillera Administrative Region (CAR),146.62,103.84,5,Normal
+2015273N12130,2015,Region I (Ilocos Region),0.0,101.2,5,Normal
+2015273N12130,2015,Region II (Cagayan Valley),6.24,101.2,5,Normal
+2015273N12130,2015,Region III (Central Luzon),0.0,101.2,5,Normal
+2015273N12130,2015,Region IV-A (Calabarzon),49.19,101.2,5,Normal
+2015273N12130,2015,Region V (Bicol Region),45.47,101.2,5,Normal
+2015273N12130,2015,Region VIII (Eastern Visayas),143.61,101.2,5,Normal
+2015273N12130,2015,National Capital Region (NCR),103.6,101.2,5,Normal
+2015273N12130,2015,Cordillera Administrative Region (CAR),20.2,101.2,5,Normal
+2015273N12130,2015,Mimaropa Region,193.29,101.2,5,Normal
+2015285N14151,2015,Region I (Ilocos Region),0.0,110.0,5,Normal
+2015285N14151,2015,Region II (Cagayan Valley),0.0,110.0,5,Normal
+2015285N14151,2015,Region III (Central Luzon),2.37,110.0,5,Normal
+2015285N14151,2015,Region IV-A (Calabarzon),86.67,110.0,5,Normal
+2015285N14151,2015,Region V (Bicol Region),155.87,110.0,5,Normal
+2015285N14151,2015,National Capital Region (NCR),138.23,110.0,5,Normal
+2015285N14151,2015,Cordillera Administrative Region (CAR),0.0,110.0,5,Normal
+2016185N08145,2016,Region II (Cagayan Valley),118.39,136.4,5,Normal
+2016211N11128,2016,Region I (Ilocos Region),27.45,66.0,4,Normal
+2016211N11128,2016,Region II (Cagayan Valley),1.96,66.0,4,Normal
+2016211N11128,2016,Region III (Central Luzon),128.84,66.0,4,Normal
+2016211N11128,2016,Region VIII (Eastern Visayas),177.79,66.0,4,Normal
+2016211N11128,2016,Cordillera Administrative Region (CAR),17.9,66.0,4,Normal
+2016244N21123,2016,Region II (Cagayan Valley),107.01,70.0,4,Normal
+2016253N13144,2016,Region II (Cagayan Valley),2.84,147.84,5,Normal
+2016256N12146,2016,Region II (Cagayan Valley),178.86,95.04,4,Normal
+2016279N19130,2016,Region I (Ilocos Region),188.63,60.0,3,Normal
+2016279N19130,2016,Region II (Cagayan Valley),37.97,60.0,3,Normal
+2016279N19130,2016,Cordillera Administrative Region (CAR),189.01,60.0,3,Normal
+2016287N12131,2016,Region I (Ilocos Region),0.0,96.8,4,Normal
+2016287N12131,2016,Region II (Cagayan Valley),15.16,96.8,4,Normal
+2016287N12131,2016,Region III (Central Luzon),11.24,96.8,4,Normal
+2016287N12131,2016,Region IV-A (Calabarzon),56.1,96.8,4,Normal
+2016287N12131,2016,Region V (Bicol Region),38.67,96.8,4,Normal
+2016287N12131,2016,Region VIII (Eastern Visayas),146.13,96.8,4,Normal
+2016287N12131,2016,National Capital Region (NCR),124.64,96.8,4,Normal
+2016287N12131,2016,Cordillera Administrative Region (CAR),22.16,96.8,4,Normal
+2016287N12131,2016,Mimaropa Region,195.16,96.8,4,Normal
+2016288N06146,2016,Region I (Ilocos Region),0.0,125.84,5,Normal
+2016288N06146,2016,Region II (Cagayan Valley),0.0,125.84,5,Normal
+2016288N06146,2016,Region III (Central Luzon),113.46,125.84,5,Normal
+2016288N06146,2016,Cordillera Administrative Region (CAR),3.22,125.84,5,Normal
+2016328N09130,2016,Region I (Ilocos Region),150.56,68.64,4,Normal
+2016328N09130,2016,Region III (Central Luzon),192.52,68.64,4,Normal
+2016328N09130,2016,Region IV-A (Calabarzon),162.55,68.64,4,Normal
+2016328N09130,2016,Region V (Bicol Region),47.47,68.64,4,Normal
+2016328N09130,2016,Region VI (Western Visayas),0.0,68.64,4,Normal
+2016328N09130,2016,Region VII (Central Visayas),5.31,68.64,4,Normal
+2016328N09130,2016,Region VIII (Eastern Visayas),0.0,68.64,4,Normal
+2016328N09130,2016,Region X (Northern Mindanao),146.02,68.64,4,Normal
+2016328N09130,2016,Cordillera Administrative Region (CAR),190.72,68.64,4,Normal
+2016328N09130,2016,Region XIII (Caraga),7.84,68.64,4,Normal
+2016328N09130,2016,Mimaropa Region,0.0,68.64,4,Normal
+2017161N13119,2017,Region III (Central Luzon),175.59,55.0,3,Severe
+2017161N13119,2017,Region IV-A (Calabarzon),148.51,55.0,3,Severe
+2017161N13119,2017,Mimaropa Region,99.67,55.0,3,Severe
+2017202N19124,2017,Region I (Ilocos Region),181.78,35.0,2,Severe
+2017202N19124,2017,Region II (Cagayan Valley),36.24,35.0,2,Severe
+2017202N19124,2017,Cordillera Administrative Region (CAR),174.14,35.0,2,Severe
+2017206N13129,2017,Region II (Cagayan Valley),182.44,80.0,4,Severe
+2017209N19118,2017,Region II (Cagayan Valley),182.22,45.0,2,Severe
+2017232N19130,2017,Region I (Ilocos Region),167.31,88.0,4,Severe
+2017232N19130,2017,Region II (Cagayan Valley),22.79,88.0,4,Severe
+2017232N19130,2017,Cordillera Administrative Region (CAR),172.93,88.0,4,Severe
+2017236N15129,2017,Region I (Ilocos Region),0.0,55.0,3,Severe
+2017236N15129,2017,Region II (Cagayan Valley),0.0,55.0,3,Severe
+2017236N15129,2017,Region III (Central Luzon),14.47,55.0,3,Severe
+2017236N15129,2017,Region IV-A (Calabarzon),97.63,55.0,3,Severe
+2017236N15129,2017,Region V (Bicol Region),97.38,55.0,3,Severe
+2017236N15129,2017,National Capital Region (NCR),184.28,55.0,3,Severe
+2017236N15129,2017,Cordillera Administrative Region (CAR),0.0,55.0,3,Severe
+2017247N16132,2017,Region I (Ilocos Region),172.13,35.0,2,Severe
+2017247N16132,2017,Region II (Cagayan Valley),29.45,35.0,2,Severe
+2017247N16132,2017,Cordillera Administrative Region (CAR),174.78,35.0,2,Severe
+2017253N14130,2017,Region I (Ilocos Region),129.19,81.84,4,Severe
+2017253N14130,2017,Region II (Cagayan Valley),138.81,81.84,4,Severe
+2017253N14130,2017,Region III (Central Luzon),0.0,81.84,4,Severe
+2017253N14130,2017,Region IV-A (Calabarzon),0.0,81.84,4,Severe
+2017253N14130,2017,Region V (Bicol Region),16.85,81.84,4,Severe
+2017253N14130,2017,National Capital Region (NCR),21.15,81.84,4,Severe
+2017253N14130,2017,Cordillera Administrative Region (CAR),185.95,81.84,4,Severe
+2017253N14130,2017,Mimaropa Region,68.01,81.84,4,Severe
+2017284N15134,2017,Region I (Ilocos Region),0.0,79.2,4,Severe
+2017284N15134,2017,Region II (Cagayan Valley),0.0,79.2,4,Severe
+2017284N15134,2017,Region III (Central Luzon),159.08,79.2,4,Severe
+2017284N15134,2017,Cordillera Administrative Region (CAR),0.0,79.2,4,Severe
+2017291N09116,2017,Region VI (Western Visayas),87.19,22.0,1,Severe
+2017291N09116,2017,Mimaropa Region,1.62,22.0,1,Severe
+2017304N11127,2017,Region IV-A (Calabarzon),190.63,77.44,4,Severe
+2017304N11127,2017,Region V (Bicol Region),162.83,77.44,4,Severe
+2017304N11127,2017,Region VI (Western Visayas),20.21,77.44,4,Severe
+2017304N11127,2017,Mimaropa Region,3.78,77.44,4,Severe
+2017312N10134,2017,Region I (Ilocos Region),121.59,40.0,2,Severe
+2017312N10134,2017,Region II (Cagayan Valley),190.34,40.0,2,Severe
+2017312N10134,2017,Region III (Central Luzon),26.92,40.0,2,Severe
+2017312N10134,2017,Region IV-A (Calabarzon),0.0,40.0,2,Severe
+2017312N10134,2017,Region V (Bicol Region),0.0,40.0,2,Severe
+2017312N10134,2017,Region VI (Western Visayas),148.01,40.0,2,Severe
+2017312N10134,2017,Region VII (Central Visayas),130.58,40.0,2,Severe
+2017312N10134,2017,Region VIII (Eastern Visayas),0.0,40.0,2,Severe
+2017312N10134,2017,National Capital Region (NCR),35.89,40.0,2,Severe
+2017312N10134,2017,Region XIII (Caraga),163.47,40.0,2,Severe
+2017312N10134,2017,Mimaropa Region,0.0,40.0,2,Severe
+2017321N07124,2017,Region VI (Western Visayas),168.41,35.0,2,Severe
+2017321N07124,2017,Region VII (Central Visayas),150.8,35.0,2,Severe
+2017321N07124,2017,Region IX (Zamboanga Peninsula),14.38,35.0,2,Severe
+2017321N07124,2017,Region X (Northern Mindanao),160.89,35.0,2,Severe
+2017321N07124,2017,Mimaropa Region,0.0,35.0,2,Severe
+2017321N07124,2017,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),133.42,35.0,2,Severe
+2018164N21120,2018,Region II (Cagayan Valley),65.77,30.8,1,Severe
+2018195N19138,2018,Region I (Ilocos Region),60.94,42.24,2,Severe
+2018195N19138,2018,Region II (Cagayan Valley),13.1,42.24,2,Severe
+2018195N19138,2018,Cordillera Administrative Region (CAR),67.05,42.24,2,Severe
+2018202N18116,2018,Region I (Ilocos Region),27.93,30.8,1,Severe
+2018202N18116,2018,Region II (Cagayan Valley),8.65,30.8,1,Severe
+2018202N18116,2018,Cordillera Administrative Region (CAR),48.47,30.8,1,Severe
+2018250N12170,2018,Region I (Ilocos Region),0.0,136.4,5,Severe
+2018250N12170,2018,Region II (Cagayan Valley),0.0,136.4,5,Severe
+2018250N12170,2018,Region III (Central Luzon),166.97,136.4,5,Severe
+2018250N12170,2018,Cordillera Administrative Region (CAR),4.76,136.4,5,Severe
+2018251N20122,2018,Region II (Cagayan Valley),26.73,40.0,2,Severe
+2018294N08161,2018,Region I (Ilocos Region),8.55,132.0,5,Severe
+2018294N08161,2018,Region II (Cagayan Valley),0.0,132.0,5,Severe
+2018294N08161,2018,Region III (Central Luzon),35.32,132.0,5,Severe
+2018294N08161,2018,Region IV-A (Calabarzon),165.28,132.0,5,Severe
+2018294N08161,2018,Cordillera Administrative Region (CAR),0.0,132.0,5,Severe
+2018311N07179,2018,Region V (Bicol Region),68.04,77.44,4,Severe
+2018311N07179,2018,Region VI (Western Visayas),0.0,77.44,4,Severe
+2018311N07179,2018,Region VII (Central Visayas),10.35,77.44,4,Severe
+2018311N07179,2018,Region VIII (Eastern Visayas),0.0,77.44,4,Severe
+2018311N07179,2018,Region XIII (Caraga),79.65,77.44,4,Severe
+2018311N07179,2018,Mimaropa Region,3.19,77.44,4,Severe
+2019178N10137,2019,Region II (Cagayan Valley),138.63,30.8,1,Moderate
+2019195N13136,2019,Region II (Cagayan Valley),85.05,45.0,2,Moderate
+2019195N13136,2019,Region III (Central Luzon),144.86,45.0,2,Moderate
+2019195N13136,2019,Cordillera Administrative Region (CAR),176.81,45.0,2,Moderate
+2019231N13135,2019,Region II (Cagayan Valley),42.13,51.04,3,Moderate
+2019236N08143,2019,Region I (Ilocos Region),10.08,40.0,2,Moderate
+2019236N08143,2019,Region II (Cagayan Valley),16.16,40.0,2,Moderate
+2019236N08143,2019,Region III (Central Luzon),3.12,40.0,2,Moderate
+2019236N08143,2019,Region IV-A (Calabarzon),109.96,40.0,2,Moderate
+2019236N08143,2019,Region V (Bicol Region),128.86,40.0,2,Moderate
+2019236N08143,2019,National Capital Region (NCR),167.83,40.0,2,Moderate
+2019236N08143,2019,Cordillera Administrative Region (CAR),0.0,40.0,2,Moderate
+2019242N18126,2019,Region I (Ilocos Region),51.93,35.0,2,Moderate
+2019242N18126,2019,Region II (Cagayan Valley),0.0,35.0,2,Moderate
+2019242N18126,2019,Cordillera Administrative Region (CAR),72.88,35.0,2,Moderate
+2019243N06136,2019,Region II (Cagayan Valley),190.04,99.44,4,Moderate
+2019268N10155,2019,Region II (Cagayan Valley),126.26,75.0,4,Moderate
+2019302N11118,2019,Mimaropa Region,80.21,75.0,4,Moderate
+2019308N13114,2019,Mimaropa Region,149.17,65.0,4,Moderate
+2019314N14136,2019,Region I (Ilocos Region),0.0,77.44,4,Moderate
+2019314N14136,2019,Region II (Cagayan Valley),0.0,77.44,4,Moderate
+2019314N14136,2019,Region III (Central Luzon),0.0,77.44,4,Moderate
+2019314N14136,2019,Region IV-A (Calabarzon),123.89,77.44,4,Moderate
+2019314N14136,2019,National Capital Region (NCR),130.66,77.44,4,Moderate
+2019314N14136,2019,Cordillera Administrative Region (CAR),0.0,77.44,4,Moderate
+2019314N14136,2019,Mimaropa Region,41.0,77.44,4,Moderate
+2020160N10133,2020,Region I (Ilocos Region),0.0,40.0,2,Severe
+2020160N10133,2020,Region II (Cagayan Valley),29.58,40.0,2,Severe
+2020160N10133,2020,Region III (Central Luzon),0.0,40.0,2,Severe
+2020160N10133,2020,Region IV-A (Calabarzon),7.81,40.0,2,Severe
+2020160N10133,2020,Region V (Bicol Region),0.0,40.0,2,Severe
+2020160N10133,2020,Region VII (Central Visayas),139.72,40.0,2,Severe
+2020160N10133,2020,Region VIII (Eastern Visayas),0.0,40.0,2,Severe
+2020160N10133,2020,National Capital Region (NCR),79.99,40.0,2,Severe
+2020160N10133,2020,Cordillera Administrative Region (CAR),31.18,40.0,2,Severe
+2020160N10133,2020,Region XIII (Caraga),94.72,40.0,2,Severe
+2020160N10133,2020,Mimaropa Region,145.96,40.0,2,Severe
+2020211N14124,2020,Region I (Ilocos Region),24.76,40.0,2,Severe
+2020211N14124,2020,Region II (Cagayan Valley),58.84,40.0,2,Severe
+2020211N14124,2020,Region III (Central Luzon),0.0,40.0,2,Severe
+2020211N14124,2020,Region IV-A (Calabarzon),7.34,40.0,2,Severe
+2020211N14124,2020,Region V (Bicol Region),19.04,40.0,2,Severe
+2020211N14124,2020,Region VIII (Eastern Visayas),194.83,40.0,2,Severe
+2020211N14124,2020,National Capital Region (NCR),57.1,40.0,2,Severe
+2020211N14124,2020,Cordillera Administrative Region (CAR),97.91,40.0,2,Severe
+2020211N14124,2020,Mimaropa Region,142.67,40.0,2,Severe
+2020222N15117,2020,Region I (Ilocos Region),157.4,61.6,3,Severe
+2020222N15117,2020,Region III (Central Luzon),171.12,61.6,3,Severe
+2020229N18123,2020,Region I (Ilocos Region),82.15,55.0,3,Severe
+2020229N18123,2020,Region II (Cagayan Valley),0.0,55.0,3,Severe
+2020229N18123,2020,Region III (Central Luzon),159.51,55.0,3,Severe
+2020229N18123,2020,Cordillera Administrative Region (CAR),77.08,55.0,3,Severe
+2020234N19123,2020,Region II (Cagayan Valley),102.34,88.0,4,Severe
+2020258N11127,2020,Region IV-A (Calabarzon),66.12,45.0,2,Severe
+2020258N11127,2020,Region V (Bicol Region),7.19,45.0,2,Severe
+2020258N11127,2020,Region VI (Western Visayas),43.42,45.0,2,Severe
+2020258N11127,2020,Region VII (Central Visayas),121.21,45.0,2,Severe
+2020258N11127,2020,Region VIII (Eastern Visayas),0.0,45.0,2,Severe
+2020258N11127,2020,National Capital Region (NCR),198.22,45.0,2,Severe
+2020258N11127,2020,Region XIII (Caraga),155.92,45.0,2,Severe
+2020258N11127,2020,Mimaropa Region,0.0,45.0,2,Severe
+2020281N14126,2020,Mimaropa Region,181.8,45.0,2,Severe
+2020285N17120,2020,Region I (Ilocos Region),28.45,45.0,2,Severe
+2020285N17120,2020,Region II (Cagayan Valley),105.57,45.0,2,Severe
+2020285N17120,2020,Region III (Central Luzon),92.45,45.0,2,Severe
+2020285N17120,2020,Cordillera Administrative Region (CAR),64.32,45.0,2,Severe
+2020291N06141,2020,Region I (Ilocos Region),3.74,65.0,4,Severe
+2020291N06141,2020,Region II (Cagayan Valley),1.44,65.0,4,Severe
+2020291N06141,2020,Region III (Central Luzon),0.0,65.0,4,Severe
+2020291N06141,2020,Region IV-A (Calabarzon),103.46,65.0,4,Severe
+2020291N06141,2020,Region V (Bicol Region),158.26,65.0,4,Severe
+2020291N06141,2020,National Capital Region (NCR),145.63,65.0,4,Severe
+2020291N06141,2020,Cordillera Administrative Region (CAR),36.47,65.0,4,Severe
+2020296N09137,2020,Region III (Central Luzon),145.05,90.64,4,Severe
+2020296N09137,2020,Region IV-A (Calabarzon),4.14,90.64,4,Severe
+2020296N09137,2020,Region V (Bicol Region),3.91,90.64,4,Severe
+2020296N09137,2020,Region VI (Western Visayas),101.83,90.64,4,Severe
+2020296N09137,2020,Region VIII (Eastern Visayas),82.64,90.64,4,Severe
+2020296N09137,2020,National Capital Region (NCR),139.92,90.64,4,Severe
+2020296N09137,2020,Mimaropa Region,0.0,90.64,4,Severe
+2020299N11144,2020,Region I (Ilocos Region),132.92,147.84,5,Severe
+2020299N11144,2020,Region II (Cagayan Valley),181.71,147.84,5,Severe
+2020299N11144,2020,Region III (Central Luzon),11.9,147.84,5,Severe
+2020299N11144,2020,Region IV-A (Calabarzon),0.0,147.84,5,Severe
+2020299N11144,2020,Region V (Bicol Region),0.0,147.84,5,Severe
+2020299N11144,2020,Region VI (Western Visayas),184.64,147.84,5,Severe
+2020299N11144,2020,Region VIII (Eastern Visayas),100.09,147.84,5,Severe
+2020299N11144,2020,National Capital Region (NCR),33.79,147.84,5,Severe
+2020299N11144,2020,Mimaropa Region,19.08,147.84,5,Severe
+2020303N05149,2020,Region II (Cagayan Valley),7.41,50.0,3,Severe
+2020312N10131,2020,Region IV-A (Calabarzon),30.98,45.0,2,Severe
+2020312N10131,2020,Region V (Bicol Region),0.0,45.0,2,Severe
+2020312N10131,2020,Region VI (Western Visayas),55.99,45.0,2,Severe
+2020312N10131,2020,Region VII (Central Visayas),130.46,45.0,2,Severe
+2020312N10131,2020,Region VIII (Eastern Visayas),0.0,45.0,2,Severe
+2020312N10131,2020,National Capital Region (NCR),194.02,45.0,2,Severe
+2020312N10131,2020,Region XIII (Caraga),176.27,45.0,2,Severe
+2020312N10131,2020,Mimaropa Region,0.0,45.0,2,Severe
+2020313N08135,2020,Region I (Ilocos Region),58.15,99.44,4,Severe
+2020313N08135,2020,Region II (Cagayan Valley),72.43,99.44,4,Severe
+2020313N08135,2020,Region III (Central Luzon),0.0,99.44,4,Severe
+2020313N08135,2020,Region IV-A (Calabarzon),1.22,99.44,4,Severe
+2020313N08135,2020,Region V (Bicol Region),20.92,99.44,4,Severe
+2020313N08135,2020,National Capital Region (NCR),39.89,99.44,4,Severe
+2020313N08135,2020,Cordillera Administrative Region (CAR),108.52,99.44,4,Severe
+2020313N08135,2020,Mimaropa Region,145.96,99.44,4,Severe
+2021148N05142,2021,Region I (Ilocos Region),35.85,40.0,2,Normal
+2021148N05142,2021,Region II (Cagayan Valley),122.87,40.0,2,Normal
+2021148N05142,2021,Region III (Central Luzon),16.39,40.0,2,Normal
+2021148N05142,2021,Region IV-A (Calabarzon),3.4,40.0,2,Normal
+2021148N05142,2021,Region V (Bicol Region),0.0,40.0,2,Normal
+2021148N05142,2021,Region VI (Western Visayas),74.26,40.0,2,Normal
+2021148N05142,2021,Region VII (Central Visayas),42.79,40.0,2,Normal
+2021148N05142,2021,Region VIII (Eastern Visayas),0.43,40.0,2,Normal
+2021148N05142,2021,National Capital Region (NCR),77.25,40.0,2,Normal
+2021148N05142,2021,Cordillera Administrative Region (CAR),123.29,40.0,2,Normal
+2021148N05142,2021,Region XIII (Caraga),113.01,40.0,2,Normal
+2021148N05142,2021,Mimaropa Region,6.28,40.0,2,Normal
+2021185N13121,2021,Region III (Central Luzon),150.46,26.4,1,Normal
+2021185N13121,2021,Region IV-A (Calabarzon),59.59,26.4,1,Normal
+2021185N13121,2021,Region V (Bicol Region),167.91,26.4,1,Normal
+2021185N13121,2021,Region VI (Western Visayas),91.16,26.4,1,Normal
+2021185N13121,2021,National Capital Region (NCR),150.88,26.4,1,Normal
+2021185N13121,2021,Mimaropa Region,0.0,26.4,1,Normal
+2021186N16129,2021,Region II (Cagayan Valley),11.57,26.4,1,Normal
+2021248N11131,2021,Region I (Ilocos Region),83.78,57.2,3,Normal
+2021248N11131,2021,Region II (Cagayan Valley),165.37,57.2,3,Normal
+2021248N11131,2021,Region III (Central Luzon),0.0,57.2,3,Normal
+2021248N11131,2021,Region IV-A (Calabarzon),0.0,57.2,3,Normal
+2021248N11131,2021,Region V (Bicol Region),0.0,57.2,3,Normal
+2021248N11131,2021,Region VI (Western Visayas),84.64,57.2,3,Normal
+2021248N11131,2021,Region VII (Central Visayas),53.89,57.2,3,Normal
+2021248N11131,2021,Region VIII (Eastern Visayas),0.0,57.2,3,Normal
+2021248N11131,2021,National Capital Region (NCR),37.24,57.2,3,Normal
+2021248N11131,2021,Cordillera Administrative Region (CAR),158.9,57.2,3,Normal
+2021248N11131,2021,Region XIII (Caraga),89.47,57.2,3,Normal
+2021248N11131,2021,Mimaropa Region,0.0,57.2,3,Normal
+2021248N12141,2021,Region I (Ilocos Region),170.92,134.64,5,Normal
+2021248N12141,2021,Region II (Cagayan Valley),1.16,134.64,5,Normal
+2021248N12141,2021,Region III (Central Luzon),185.96,134.64,5,Normal
+2021248N12141,2021,Cordillera Administrative Region (CAR),138.88,134.64,5,Normal
+2021264N13119,2021,Mimaropa Region,111.97,35.0,2,Normal
+2021276N07131,2021,Region VI (Western Visayas),0.0,35.2,2,Normal
+2021276N07131,2021,Region VII (Central Visayas),1.19,35.2,2,Normal
+2021276N07131,2021,Region VIII (Eastern Visayas),2.28,35.2,2,Normal
+2021276N07131,2021,Region IX (Zamboanga Peninsula),122.56,35.2,2,Normal
+2021276N07131,2021,Region X (Northern Mindanao),87.95,35.2,2,Normal
+2021276N07131,2021,Region XI (Davao Region),150.49,35.2,2,Normal
+2021276N07131,2021,Region XIII (Caraga),0.38,35.2,2,Normal
+2021276N07131,2021,Mimaropa Region,11.46,35.2,2,Normal
+2021280N14137,2021,Region I (Ilocos Region),27.88,55.0,3,Normal
+2021280N14137,2021,Region II (Cagayan Valley),16.35,55.0,3,Normal
+2021280N14137,2021,Cordillera Administrative Region (CAR),28.5,55.0,3,Normal
+2021296N06127,2021,Region IX (Zamboanga Peninsula),18.12,30.8,1,Normal
+2021296N06127,2021,Region X (Northern Mindanao),132.79,30.8,1,Normal
+2021296N06127,2021,Region XI (Davao Region),0.0,30.8,1,Normal
+2021296N06127,2021,Region XII (Soccsksargen),0.0,30.8,1,Normal
+2021296N06127,2021,Mimaropa Region,25.62,30.8,1,Normal
+2021296N06127,2021,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),19.18,30.8,1,Normal
+2022232N18131,2022,Region I (Ilocos Region),3.75,57.2,3,Moderate
+2022232N18131,2022,Region II (Cagayan Valley),0.0,57.2,3,Moderate
+2022232N18131,2022,Region III (Central Luzon),90.76,57.2,3,Moderate
+2022232N18131,2022,Region IV-A (Calabarzon),183.97,57.2,3,Moderate
+2022232N18131,2022,Region V (Bicol Region),183.79,57.2,3,Moderate
+2022232N18131,2022,Cordillera Administrative Region (CAR),0.0,57.2,3,Moderate
+2022264N17132,2022,Region I (Ilocos Region),33.96,123.2,5,Moderate
+2022264N17132,2022,Region II (Cagayan Valley),62.58,123.2,5,Moderate
+2022264N17132,2022,Region III (Central Luzon),0.0,123.2,5,Moderate
+2022264N17132,2022,Region IV-A (Calabarzon),0.17,123.2,5,Moderate
+2022264N17132,2022,Region V (Bicol Region),55.72,123.2,5,Moderate
+2022264N17132,2022,National Capital Region (NCR),54.79,123.2,5,Moderate
+2022264N17132,2022,Cordillera Administrative Region (CAR),97.69,123.2,5,Moderate
+2022264N17132,2022,Mimaropa Region,163.39,123.2,5,Moderate
+2022285N12116,2022,Mimaropa Region,118.56,35.0,2,Moderate
+2022285N17140,2022,Region I (Ilocos Region),76.62,79.2,4,Moderate
+2022285N17140,2022,Region II (Cagayan Valley),9.84,79.2,4,Moderate
+2022285N17140,2022,Cordillera Administrative Region (CAR),83.79,79.2,4,Moderate
+2022292N21132,2022,Region I (Ilocos Region),171.51,26.4,1,Moderate
+2022292N21132,2022,Region II (Cagayan Valley),23.85,26.4,1,Moderate
+2022292N21132,2022,Cordillera Administrative Region (CAR),183.4,26.4,1,Moderate
+2022299N11134,2022,Region I (Ilocos Region),22.9,61.6,3,Moderate
+2022299N11134,2022,Region II (Cagayan Valley),111.08,61.6,3,Moderate
+2022299N11134,2022,Region III (Central Luzon),0.0,61.6,3,Moderate
+2022299N11134,2022,Region IV-A (Calabarzon),0.0,61.6,3,Moderate
+2022299N11134,2022,Region V (Bicol Region),0.0,61.6,3,Moderate
+2022299N11134,2022,Region VI (Western Visayas),190.21,61.6,3,Moderate
+2022299N11134,2022,Region VIII (Eastern Visayas),58.57,61.6,3,Moderate
+2022299N11134,2022,National Capital Region (NCR),0.0,61.6,3,Moderate
+2022299N11134,2022,Cordillera Administrative Region (CAR),95.84,61.6,3,Moderate
+2022299N11134,2022,Mimaropa Region,28.91,61.6,3,Moderate
+2023194N16123,2023,Region I (Ilocos Region),0.0,69.52,4,Normal
+2023194N16123,2023,Region II (Cagayan Valley),5.26,69.52,4,Normal
+2023194N16123,2023,Region III (Central Luzon),173.79,69.52,4,Normal
+2023194N16123,2023,Cordillera Administrative Region (CAR),0.0,69.52,4,Normal
+2023201N13134,2023,Region I (Ilocos Region),57.4,112.64,5,Normal
+2023201N13134,2023,Region II (Cagayan Valley),0.0,112.64,5,Normal
+2023201N13134,2023,Cordillera Administrative Region (CAR),46.78,112.64,5,Normal
+2023234N18128,2023,Region I (Ilocos Region),160.24,121.44,5,Normal
+2023234N18128,2023,Region II (Cagayan Valley),32.59,121.44,5,Normal
+2023234N18128,2023,Region III (Central Luzon),72.16,121.44,5,Normal
+2023234N18128,2023,Region IV-A (Calabarzon),176.14,121.44,5,Normal
+2023234N18128,2023,Region V (Bicol Region),173.14,121.44,5,Normal
+2023234N18128,2023,Cordillera Administrative Region (CAR),141.37,121.44,5,Normal
+2023239N18144,2023,Region II (Cagayan Valley),175.47,90.64,4,Normal
+2023271N14144,2023,Region II (Cagayan Valley),97.39,105.6,5,Normal
+2024198N08130,2024,Region III (Central Luzon),153.74,55.0,3,Moderate
+2024198N08130,2024,Region IV-A (Calabarzon),74.02,55.0,3,Moderate
+2024198N08130,2024,Region V (Bicol Region),2.35,55.0,3,Moderate
+2024198N08130,2024,Region VI (Western Visayas),51.95,55.0,3,Moderate
+2024198N08130,2024,Region VII (Central Visayas),64.5,55.0,3,Moderate
+2024198N08130,2024,Region VIII (Eastern Visayas),0.0,55.0,3,Moderate
+2024198N08130,2024,National Capital Region (NCR),169.95,55.0,3,Moderate
+2024198N08130,2024,Region XIII (Caraga),113.01,55.0,3,Moderate
+2024198N08130,2024,Mimaropa Region,0.0,55.0,3,Moderate
+2024244N09137,2024,Region I (Ilocos Region),0.0,123.2,5,Moderate
+2024244N09137,2024,Region II (Cagayan Valley),0.0,123.2,5,Moderate
+2024244N09137,2024,Region III (Central Luzon),3.05,123.2,5,Moderate
+2024244N09137,2024,Region IV-A (Calabarzon),61.43,123.2,5,Moderate
+2024244N09137,2024,Region V (Bicol Region),0.0,123.2,5,Moderate
+2024244N09137,2024,Region VIII (Eastern Visayas),43.2,123.2,5,Moderate
+2024244N09137,2024,National Capital Region (NCR),178.72,123.2,5,Moderate
+2024244N09137,2024,Cordillera Administrative Region (CAR),0.0,123.2,5,Moderate
+2024244N09137,2024,Region XIII (Caraga),198.13,123.2,5,Moderate
+2024244N09137,2024,Mimaropa Region,153.9,123.2,5,Moderate
+2024270N24128,2024,Region I (Ilocos Region),199.98,117.04,5,Moderate
+2024270N24128,2024,Region II (Cagayan Valley),9.03,117.04,5,Moderate
+2024270N24128,2024,Cordillera Administrative Region (CAR),193.59,117.04,5,Moderate
+2024293N13141,2024,Region I (Ilocos Region),0.0,60.0,3,Moderate
+2024293N13141,2024,Region II (Cagayan Valley),0.0,60.0,3,Moderate
+2024293N13141,2024,Region III (Central Luzon),75.74,60.0,3,Moderate
+2024293N13141,2024,Region IV-A (Calabarzon),198.68,60.0,3,Moderate
+2024293N13141,2024,Region V (Bicol Region),153.93,60.0,3,Moderate
+2024293N13141,2024,Cordillera Administrative Region (CAR),0.0,60.0,3,Moderate
+2024298N13150,2024,Region II (Cagayan Valley),64.79,118.8,5,Moderate
+2024307N06143,2024,Region I (Ilocos Region),3.73,110.0,5,Moderate
+2024307N06143,2024,Region II (Cagayan Valley),0.27,110.0,5,Moderate
+2024307N06143,2024,Cordillera Administrative Region (CAR),9.14,110.0,5,Moderate
+2024312N14145,2024,Region I (Ilocos Region),0.0,70.0,4,Moderate
+2024312N14145,2024,Region II (Cagayan Valley),0.0,70.0,4,Moderate
+2024312N14145,2024,Region III (Central Luzon),6.73,70.0,4,Moderate
+2024312N14145,2024,Region IV-A (Calabarzon),142.36,70.0,4,Moderate
+2024312N14145,2024,Region V (Bicol Region),156.28,70.0,4,Moderate
+2024312N14145,2024,Cordillera Administrative Region (CAR),0.0,70.0,4,Moderate
+2024313N10169,2024,Region I (Ilocos Region),20.62,121.44,5,Moderate
+2024313N10169,2024,Region II (Cagayan Valley),0.0,121.44,5,Moderate
+2024313N10169,2024,Region III (Central Luzon),12.69,121.44,5,Moderate
+2024313N10169,2024,Region IV-A (Calabarzon),56.1,121.44,5,Moderate
+2024313N10169,2024,Region V (Bicol Region),0.33,121.44,5,Moderate
+2024313N10169,2024,Region VIII (Eastern Visayas),81.35,121.44,5,Moderate
+2024313N10169,2024,National Capital Region (NCR),139.87,121.44,5,Moderate
+2024313N10169,2024,Cordillera Administrative Region (CAR),0.0,121.44,5,Moderate
+2024313N10169,2024,Mimaropa Region,177.2,121.44,5,Moderate
+2024314N07151,2024,Region I (Ilocos Region),46.95,112.64,5,Moderate
+2024314N07151,2024,Region II (Cagayan Valley),0.0,112.64,5,Moderate
+2024314N07151,2024,Region III (Central Luzon),118.66,112.64,5,Moderate
+2024314N07151,2024,Cordillera Administrative Region (CAR),28.98,112.64,5,Moderate

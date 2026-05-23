@@ -1,52 +1,52 @@
 region,scenario,p_low,p_moderate,p_high,p_critical
-Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Moderate,0.981,0.019,0.0,0.0
-Cordillera Administrative Region (CAR),Moderate,0.076,0.18,0.466,0.278
-Mimaropa Region,Moderate,0.245,0.307,0.37,0.078
-National Capital Region (NCR),Moderate,0.468,0.287,0.222,0.023
-Region I (Ilocos Region),Moderate,0.083,0.17,0.481,0.266
-Region II (Cagayan Valley),Moderate,0.026,0.091,0.348,0.535
-Region III (Central Luzon),Moderate,0.114,0.211,0.479,0.196
-Region IV-A (Calabarzon),Moderate,0.22,0.289,0.386,0.105
-Region IX (Zamboanga Peninsula),Moderate,0.981,0.019,0.0,0.0
-Region V (Bicol Region),Moderate,0.175,0.275,0.449,0.101
-Region VI (Western Visayas),Moderate,0.582,0.279,0.136,0.003
-Region VII (Central Visayas),Moderate,0.687,0.236,0.075,0.002
-Region VIII (Eastern Visayas),Moderate,0.434,0.315,0.235,0.016
-Region X (Northern Mindanao),Moderate,0.972,0.027,0.001,0.0
-Region XI (Davao Region),Moderate,0.983,0.016,0.001,0.0
-Region XII (Soccsksargen),Moderate,0.996,0.004,0.0,0.0
-Region XIII (Caraga),Moderate,0.804,0.159,0.037,0.0
+Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Moderate,0.983,0.015,0.002,0.0
+Cordillera Administrative Region (CAR),Moderate,0.076,0.175,0.457,0.292
+Mimaropa Region,Moderate,0.249,0.301,0.377,0.073
+National Capital Region (NCR),Moderate,0.441,0.3,0.239,0.02
+Region I (Ilocos Region),Moderate,0.108,0.166,0.443,0.283
+Region II (Cagayan Valley),Moderate,0.028,0.071,0.371,0.53
+Region III (Central Luzon),Moderate,0.099,0.218,0.457,0.226
+Region IV-A (Calabarzon),Moderate,0.18,0.293,0.408,0.119
+Region IX (Zamboanga Peninsula),Moderate,0.977,0.022,0.001,0.0
+Region V (Bicol Region),Moderate,0.171,0.279,0.422,0.128
+Region VI (Western Visayas),Moderate,0.579,0.285,0.134,0.002
+Region VII (Central Visayas),Moderate,0.657,0.245,0.095,0.003
+Region VIII (Eastern Visayas),Moderate,0.429,0.313,0.243,0.015
+Region X (Northern Mindanao),Moderate,0.982,0.018,0.0,0.0
+Region XI (Davao Region),Moderate,0.986,0.014,0.0,0.0
+Region XII (Soccsksargen),Moderate,0.997,0.003,0.0,0.0
+Region XIII (Caraga),Moderate,0.765,0.184,0.051,0.0
 Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Normal,1.0,0.0,0.0,0.0
-Cordillera Administrative Region (CAR),Normal,0.104,0.22,0.472,0.204
-Mimaropa Region,Normal,0.453,0.343,0.198,0.006
-National Capital Region (NCR),Normal,0.617,0.266,0.116,0.001
-Region I (Ilocos Region),Normal,0.097,0.188,0.49,0.225
-Region II (Cagayan Valley),Normal,0.045,0.108,0.414,0.433
-Region III (Central Luzon),Normal,0.225,0.277,0.398,0.1
-Region IV-A (Calabarzon),Normal,0.38,0.367,0.235,0.018
-Region IX (Zamboanga Peninsula),Normal,0.973,0.027,0.0,0.0
-Region V (Bicol Region),Normal,0.427,0.305,0.25,0.018
-Region VI (Western Visayas),Normal,0.813,0.166,0.021,0.0
-Region VII (Central Visayas),Normal,0.873,0.108,0.018,0.001
-Region VIII (Eastern Visayas),Normal,0.599,0.282,0.113,0.006
-Region X (Northern Mindanao),Normal,0.897,0.093,0.01,0.0
-Region XI (Davao Region),Normal,0.964,0.032,0.004,0.0
+Cordillera Administrative Region (CAR),Normal,0.109,0.242,0.423,0.226
+Mimaropa Region,Normal,0.521,0.32,0.147,0.012
+National Capital Region (NCR),Normal,0.644,0.253,0.1,0.003
+Region I (Ilocos Region),Normal,0.088,0.197,0.462,0.253
+Region II (Cagayan Valley),Normal,0.033,0.097,0.413,0.457
+Region III (Central Luzon),Normal,0.18,0.308,0.412,0.1
+Region IV-A (Calabarzon),Normal,0.417,0.304,0.255,0.024
+Region IX (Zamboanga Peninsula),Normal,0.979,0.021,0.0,0.0
+Region V (Bicol Region),Normal,0.401,0.311,0.266,0.022
+Region VI (Western Visayas),Normal,0.831,0.147,0.022,0.0
+Region VII (Central Visayas),Normal,0.85,0.126,0.024,0.0
+Region VIII (Eastern Visayas),Normal,0.607,0.269,0.121,0.003
+Region X (Northern Mindanao),Normal,0.86,0.128,0.011,0.001
+Region XI (Davao Region),Normal,0.975,0.025,0.0,0.0
 Region XII (Soccsksargen),Normal,1.0,0.0,0.0,0.0
-Region XIII (Caraga),Normal,0.858,0.13,0.012,0.0
-Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Severe,0.989,0.011,0.0,0.0
-Cordillera Administrative Region (CAR),Severe,0.067,0.157,0.452,0.324
-Mimaropa Region,Severe,0.167,0.29,0.437,0.106
-National Capital Region (NCR),Severe,0.262,0.305,0.368,0.065
-Region I (Ilocos Region),Severe,0.026,0.121,0.446,0.407
-Region II (Cagayan Valley),Severe,0.007,0.038,0.289,0.666
-Region III (Central Luzon),Severe,0.067,0.148,0.477,0.308
-Region IV-A (Calabarzon),Severe,0.163,0.286,0.432,0.119
-Region IX (Zamboanga Peninsula),Severe,0.988,0.012,0.0,0.0
-Region V (Bicol Region),Severe,0.12,0.216,0.471,0.193
-Region VI (Western Visayas),Severe,0.427,0.343,0.214,0.016
-Region VII (Central Visayas),Severe,0.622,0.284,0.094,0.0
-Region VIII (Eastern Visayas),Severe,0.365,0.341,0.264,0.03
-Region X (Northern Mindanao),Severe,0.846,0.133,0.021,0.0
-Region XI (Davao Region),Severe,0.939,0.061,0.0,0.0
-Region XII (Soccsksargen),Severe,0.999,0.0,0.001,0.0
-Region XIII (Caraga),Severe,0.642,0.27,0.088,0.0
+Region XIII (Caraga),Normal,0.842,0.136,0.022,0.0
+Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Severe,0.994,0.006,0.0,0.0
+Cordillera Administrative Region (CAR),Severe,0.059,0.175,0.454,0.312
+Mimaropa Region,Severe,0.185,0.304,0.417,0.094
+National Capital Region (NCR),Severe,0.272,0.3,0.359,0.069
+Region I (Ilocos Region),Severe,0.036,0.119,0.444,0.401
+Region II (Cagayan Valley),Severe,0.006,0.055,0.267,0.672
+Region III (Central Luzon),Severe,0.053,0.125,0.479,0.343
+Region IV-A (Calabarzon),Severe,0.16,0.257,0.438,0.145
+Region IX (Zamboanga Peninsula),Severe,0.997,0.003,0.0,0.0
+Region V (Bicol Region),Severe,0.136,0.243,0.431,0.19
+Region VI (Western Visayas),Severe,0.438,0.338,0.203,0.021
+Region VII (Central Visayas),Severe,0.615,0.298,0.082,0.005
+Region VIII (Eastern Visayas),Severe,0.336,0.356,0.279,0.029
+Region X (Northern Mindanao),Severe,0.833,0.147,0.02,0.0
+Region XI (Davao Region),Severe,0.929,0.069,0.002,0.0
+Region XII (Soccsksargen),Severe,1.0,0.0,0.0,0.0
+Region XIII (Caraga),Severe,0.641,0.277,0.082,0.0

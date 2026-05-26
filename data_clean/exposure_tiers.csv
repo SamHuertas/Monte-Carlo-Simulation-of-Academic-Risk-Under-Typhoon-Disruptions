@@ -1,0 +1,18 @@
+region,lambda_moderate,lambda_normal,lambda_severe,lambda_mean,exposure_tier
+Region II (Cagayan Valley),6.2222,5.5556,7.8571,6.545,High
+Region I (Ilocos Region),4.4444,4.2222,6.0,4.8889,High
+Cordillera Administrative Region (CAR),4.6667,4.1111,5.1429,4.6402,High
+Region III (Central Luzon),4.2222,3.3333,5.1429,4.2328,High
+Region V (Bicol Region),3.4444,2.3333,4.2857,3.3545,High
+Region IV-A (Calabarzon),3.3333,2.3333,3.7143,3.127,High
+Mimaropa Region,3.1111,2.2222,4.0,3.1111,Moderate
+National Capital Region (NCR),2.0,1.5556,3.0,2.1852,Moderate
+Region VIII (Eastern Visayas),2.0,1.6667,2.8571,2.1746,Moderate
+Region VI (Western Visayas),1.6667,1.1111,2.4286,1.7355,Moderate
+Region VII (Central Visayas),1.4444,0.8889,1.8571,1.3968,Moderate
+Region XIII (Caraga),1.0,0.8889,1.8571,1.2487,Low
+Region X (Northern Mindanao),0.3333,0.7778,1.0,0.7037,Low
+Region XI (Davao Region),0.2222,0.5556,0.7143,0.4974,Low
+Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),0.3333,0.2222,0.5714,0.3756,Low
+Region IX (Zamboanga Peninsula),0.3333,0.3333,0.4286,0.3651,Low
+Region XII (Soccsksargen),0.1111,0.1111,0.1429,0.1217,Low
